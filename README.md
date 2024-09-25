@@ -1,6 +1,8 @@
+# [새싹 미니프로젝트](https://dacon.io/competitions/official/235713/data)
+
 # 월간 데이콘 신용카드 사용자 연체 예측 AI 경진대회
 ## 알고리즘 | 정형 | 분류 | 금융 | LogLoss
-# [새싹 미니프로젝트](https://dacon.io/competitions/official/235713/data)
+
 # 배경
 안녕하세요 여러분! 🙌 신용카드 사용자 연체 예측 AI 경진대회에 오신 것을 환영합니다. 
 
