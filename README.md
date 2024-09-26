@@ -41,11 +41,25 @@ test.shape : (10000, 19)
 
 sample_submission.csv
 
+![image](https://github.com/user-attachments/assets/794b59f8-ffa4-405c-9f0f-92b36fa96ef3)
+![image](https://github.com/user-attachments/assets/2a01ef84-a724-44da-9336-3f39a6036d92)
+![image](https://github.com/user-attachments/assets/3c5fb439-7ac6-4794-a43e-50e59ea85114)
+![image](https://github.com/user-attachments/assets/6c81cc71-29a7-4f46-8dfe-64663776232f)
+모델 성능비교했을 때 catboost로 높았음
+![image](https://github.com/user-attachments/assets/ebbdbd39-3697-4a62-8f11-dcdbfff4ac17)
+
+1. 역할분담
+   ![image](https://github.com/user-attachments/assets/f799b66b-6787-4915-87da-c0d8755d303d)
+
+
+
+
+
 정답 제출 파일
 sample_submission.shape :(10000, 4)
 
 ![image](https://github.com/user-attachments/assets/b30568c4-3cff-4f12-82d7-30227cb64773)
-https://drive.google.com/drive/folders/1R6gXF38V8sQR8RZgiamN1jvFW08xwf0x
+!https://drive.google.com/drive/folders/1R6gXF38V8sQR8RZgiamN1jvFW08xwf0x
 
 ![최종모델 cv log score](https://github.com/user-attachments/assets/8304446c-d684-43fe-b80d-81fadfb68c85)
 
