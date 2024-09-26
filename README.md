@@ -58,8 +58,6 @@ sample_submission.csv
 정답 제출 파일
 sample_submission.shape :(10000, 4)
 
-![image](https://github.com/user-attachments/assets/b30568c4-3cff-4f12-82d7-30227cb64773)
-!https://drive.google.com/drive/folders/1R6gXF38V8sQR8RZgiamN1jvFW08xwf0x
 
 ![최종모델 cv log score](https://github.com/user-attachments/assets/8304446c-d684-43fe-b80d-81fadfb68c85)
 
